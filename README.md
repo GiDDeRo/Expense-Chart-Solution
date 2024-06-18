@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src= "./images/Frontend Mentor logo.svg" width="80px"></img>
+<img src="images/Frontend Mentor Logo.svg" width="80px">
 
-<h1>Frontend Mentor - Notifications Page Solution</h1>
+<h1>Frontend Mentor - Expense Chart Solution</h1>
 <p align="center">
 <a href ="https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC/hub"><strong>Frontend Mentor Challenge</strong></a>
 </p>
