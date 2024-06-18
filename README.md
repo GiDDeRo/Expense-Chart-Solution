@@ -8,18 +8,10 @@
 </p>
 <div align="center">
 <!-- Profiles -->
-<a href="https://www.frontendmentor.io/profile/GiDDeRo">
-<img src="https://img.shields.io/badge/Profile-Gideon-black?style=for-the-badge&logo=frontend%20mentor&labelColor=black&color=white
-" alt="Gideon's Profile">
-</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.frontendmentor.io/profile/GiDDeRo"><img src="https://img.shields.io/badge/Profile-Gideon-black?style=for-the-badge&logo=frontend%20mentor&labelColor=black&color=white" alt="Gideon's Profile"></a>&nbsp;&nbsp;&nbsp;
 <!-- Status -->
-<a href="#">
-<img src="https://img.shields.io/badge/status%20-%20completed%20-%20green?style=for-the-badge&labelColor=black">
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.frontendmentor.io/challenges?difficulty=2">
-<img src="https://img.shields.io/badge/Difficulty-Junior-red?style=for-the-badge&labelColor=black&color=orange
-">
-</a>
+<a href="#"><img src="https://img.shields.io/badge/status%20-%20completed%20-%20green?style=for-the-badge&labelColor=black"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.frontendmentor.io/challenges?difficulty=2"><img src="https://img.shields.io/badge/Difficulty-Junior-red?style=for-the-badge&labelColor=black&color=orange"></a>
 </div>
 </div>
 
