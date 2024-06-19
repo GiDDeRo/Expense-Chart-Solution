@@ -30,7 +30,7 @@ ____
 |||
 | :------ | :-------- |
 | Solution URL: | |
-| Live Site URL: | |
+| Live Site URL: | https://giddero.github.io/Expense-Chart-Solution/ |
 ||| 
 
 ### The Challenge :man_technologist:
