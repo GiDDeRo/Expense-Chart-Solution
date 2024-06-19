@@ -29,7 +29,7 @@ ___
 ____
 |||
 | :------ | :-------- |
-| Solution URL: | |
+| Solution URL: | https://www.frontendmentor.io/solutions/expense-chart-component-html-css-javascript-u4SidrM6T4 |
 | Live Site URL: | https://giddero.github.io/Expense-Chart-Solution/ |
 ||| 
 
