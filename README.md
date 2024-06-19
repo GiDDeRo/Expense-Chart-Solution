@@ -4,7 +4,7 @@
 
 <h1>Frontend Mentor - Expense Chart Solution</h1>
 <p align="center">
-<a href ="https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC/hub"><strong>Frontend Mentor Challenge</strong></a>
+<a href ="https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt/hub"><strong>Frontend Mentor Challenge</strong></a>
 </p>
 <div align="center">
 <!-- Profiles -->
